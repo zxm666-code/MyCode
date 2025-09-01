@@ -1,0 +1,410 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D10C03F-BE0D-493F-AED5-567927A496E1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ESM企业薪酬管理系统</RootNamespace>
+    <AssemblyName>ESM企业薪酬管理系统</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44359</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CheckPay_shuoming.aspx" />
+    <Content Include="css\cfi_global.css" />
+    <Content Include="css\login.css" />
+    <Content Include="Employee_add.aspx" />
+    <Content Include="Employee_moreinfo.aspx" />
+    <Content Include="Employee_query.aspx" />
+    <Content Include="Employee_update.aspx" />
+    <Content Include="GeRenJieGouChaXun.aspx" />
+    <Content Include="HouseCommonFundEdit.aspx" />
+    <Content Include="image\arrow_box.gif" />
+    <Content Include="image\button_bg_blue.gif" />
+    <Content Include="image\button_bg_gray.gif" />
+    <Content Include="image\cfi_logo.png" />
+    <Content Include="image\error.gif" />
+    <Content Include="image\error2.gif" />
+    <Content Include="image\go_button.gif" />
+    <Content Include="image\ibm_logo.jpg" />
+    <Content Include="image\icon_configure.png" />
+    <Content Include="image\icon_del.png" />
+    <Content Include="image\icon_edit.png" />
+    <Content Include="image\icon_object.png" />
+    <Content Include="image\icon_view.png" />
+    <Content Include="image\loading.gif" />
+    <Content Include="image\login\arrow.gif" />
+    <Content Include="image\login\arrow_box.gif" />
+    <Content Include="image\login\bgcanvas.png" />
+    <Content Include="image\login\button_bg_blue.gif" />
+    <Content Include="image\login\button_bg_gray.gif" />
+    <Content Include="image\login\continue.gif" />
+    <Content Include="image\login\dev.gif" />
+    <Content Include="image\login\go.gif" />
+    <Content Include="image\login\go_button.gif" />
+    <Content Include="image\login\login_bar.gif" />
+    <Content Include="image\login\login_button.gif" />
+    <Content Include="image\login\login_icon.gif" />
+    <Content Include="image\login\navigation_bg.gif" />
+    <Content Include="image\login\nav_bg.jpg" />
+    <Content Include="image\login\nav_bottom.gif" />
+    <Content Include="image\login\pm.gif" />
+    <Content Include="image\login\previous.gif" />
+    <Content Include="image\login\redarrow.gif" />
+    <Content Include="image\login\register_button.gif" />
+    <Content Include="image\login\related_info_bg.gif" />
+    <Content Include="image\login\related_info_bg.png" />
+    <Content Include="image\login\复件 login_icon.gif" />
+    <Content Include="image\navigation_bg.gif" />
+    <Content Include="image\organ\department.gif" />
+    <Content Include="image\paper_pen_icon.gif" />
+    <Content Include="image\redarrow.gif" />
+    <Content Include="image\report\income.gif" />
+    <Content Include="image\report\income2.gif" />
+    <Content Include="image\right.gif" />
+    <Content Include="image\right2.gif" />
+    <Content Include="image\search_bg.gif" />
+    <Content Include="InputData_info.aspx" />
+    <Content Include="InputData_sub1.aspx" />
+    <Content Include="InputPay.aspx" />
+    <Content Include="JiSuanRule.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="OldYearFundEdit.aspx" />
+    <Content Include="Post_add.aspx" />
+    <Content Include="Post_duty.aspx" />
+    <Content Include="Post_query1.aspx" />
+    <Content Include="Post_update.aspx" />
+    <Content Include="Post_weihu.aspx" />
+    <Content Include="Report_income_detail.aspx" />
+    <Content Include="Report_income_emp.aspx" />
+    <Content Include="Report_income_outline.aspx" />
+    <Content Include="Self_View.aspx" />
+    <Content Include="XinChouJieGou.aspx" />
+    <Content Include="XinChouJieGou_sub1.aspx" />
+    <Content Include="XinChouTemplateList.aspx" />
+    <None Include="Scripts\jquery-3.7.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.7.1.js" />
+    <Content Include="Scripts\jquery-3.7.1.min.js" />
+    <Content Include="Scripts\jquery-3.7.1.slim.js" />
+    <Content Include="Scripts\jquery-3.7.1.slim.min.js" />
+    <Content Include="User_list.aspx" />
+    <Content Include="User_password.aspx" />
+    <Content Include="User_role_list.aspx" />
+    <Content Include="User_role_selectrole.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckPay_shuoming.aspx.cs">
+      <DependentUpon>CheckPay_shuoming.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckPay_shuoming.aspx.designer.cs">
+      <DependentUpon>CheckPay_shuoming.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_add.aspx.cs">
+      <DependentUpon>Employee_add.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Employee_add.aspx.designer.cs">
+      <DependentUpon>Employee_add.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_moreinfo.aspx.cs">
+      <DependentUpon>Employee_moreinfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Employee_moreinfo.aspx.designer.cs">
+      <DependentUpon>Employee_moreinfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_query.aspx.cs">
+      <DependentUpon>Employee_query.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Employee_query.aspx.designer.cs">
+      <DependentUpon>Employee_query.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_update.aspx.cs">
+      <DependentUpon>Employee_update.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Employee_update.aspx.designer.cs">
+      <DependentUpon>Employee_update.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeRenJieGouChaXun.aspx.cs">
+      <DependentUpon>GeRenJieGouChaXun.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeRenJieGouChaXun.aspx.designer.cs">
+      <DependentUpon>GeRenJieGouChaXun.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HouseCommonFundEdit.aspx.cs">
+      <DependentUpon>HouseCommonFundEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HouseCommonFundEdit.aspx.designer.cs">
+      <DependentUpon>HouseCommonFundEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InputData_info.aspx.cs">
+      <DependentUpon>InputData_info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InputData_info.aspx.designer.cs">
+      <DependentUpon>InputData_info.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InputData_sub1.aspx.cs">
+      <DependentUpon>InputData_sub1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InputData_sub1.aspx.designer.cs">
+      <DependentUpon>InputData_sub1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InputPay.aspx.cs">
+      <DependentUpon>InputPay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InputPay.aspx.designer.cs">
+      <DependentUpon>InputPay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JiSuanRule.aspx.cs">
+      <DependentUpon>JiSuanRule.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JiSuanRule.aspx.designer.cs">
+      <DependentUpon>JiSuanRule.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OldYearFundEdit.aspx.cs">
+      <DependentUpon>OldYearFundEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OldYearFundEdit.aspx.designer.cs">
+      <DependentUpon>OldYearFundEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Post_add.aspx.cs">
+      <DependentUpon>Post_add.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Post_add.aspx.designer.cs">
+      <DependentUpon>Post_add.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Post_duty.aspx.cs">
+      <DependentUpon>Post_duty.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Post_duty.aspx.designer.cs">
+      <DependentUpon>Post_duty.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Post_query1.aspx.cs">
+      <DependentUpon>Post_query1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Post_query1.aspx.designer.cs">
+      <DependentUpon>Post_query1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Post_update.aspx.cs">
+      <DependentUpon>Post_update.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Post_update.aspx.designer.cs">
+      <DependentUpon>Post_update.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Post_weihu.aspx.cs">
+      <DependentUpon>Post_weihu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Post_weihu.aspx.designer.cs">
+      <DependentUpon>Post_weihu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report_income_detail.aspx.cs">
+      <DependentUpon>Report_income_detail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_income_detail.aspx.designer.cs">
+      <DependentUpon>Report_income_detail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_income_emp.aspx.cs">
+      <DependentUpon>Report_income_emp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_income_emp.aspx.designer.cs">
+      <DependentUpon>Report_income_emp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_income_outline.aspx.cs">
+      <DependentUpon>Report_income_outline.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Report_income_outline.aspx.designer.cs">
+      <DependentUpon>Report_income_outline.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Self_View.aspx.cs">
+      <DependentUpon>Self_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Self_View.aspx.designer.cs">
+      <DependentUpon>Self_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sqlhelp.cs" />
+    <Compile Include="User_list.aspx.cs">
+      <DependentUpon>User_list.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_list.aspx.designer.cs">
+      <DependentUpon>User_list.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User_password.aspx.cs">
+      <DependentUpon>User_password.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_password.aspx.designer.cs">
+      <DependentUpon>User_password.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User_role_list.aspx.cs">
+      <DependentUpon>User_role_list.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_role_list.aspx.designer.cs">
+      <DependentUpon>User_role_list.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User_role_selectrole.aspx.cs">
+      <DependentUpon>User_role_selectrole.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_role_selectrole.aspx.designer.cs">
+      <DependentUpon>User_role_selectrole.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="XinChouJieGou.aspx.cs">
+      <DependentUpon>XinChouJieGou.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="XinChouJieGou.aspx.designer.cs">
+      <DependentUpon>XinChouJieGou.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="XinChouJieGou_sub1.aspx.cs">
+      <DependentUpon>XinChouJieGou_sub1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="XinChouJieGou_sub1.aspx.designer.cs">
+      <DependentUpon>XinChouJieGou_sub1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="XinChouTemplateList.aspx.cs">
+      <DependentUpon>XinChouTemplateList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="XinChouTemplateList.aspx.designer.cs">
+      <DependentUpon>XinChouTemplateList.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.7.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.7.1.min.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="Web.sitemap" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51692</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44359/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

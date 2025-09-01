@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\inputpay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\inputpay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\inputdata_sub1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\inputdata_sub1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\inputdata_info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\inputdata_info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\report_income_detail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\report_income_detail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\sqlhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\sqlhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\report_income_emp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\report_income_emp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\report_income_detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\report_income_detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\report_income_emp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\report_income_emp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D10C03F-BE0D-493F-AED5-567927A496E1}|ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:esm\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.sitemap",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Web.sitemap",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Web.sitemap",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Web.sitemap",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Web.sitemap",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
+              "WhenOpened": "2025-04-06T06:57:37.552Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sqlhelp.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Sqlhelp.cs",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Sqlhelp.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Sqlhelp.cs",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Sqlhelp.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:24:04.016Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputPay.aspx",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputPay.aspx",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputPay.aspx",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputPay.aspx",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputPay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T08:43:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputData_sub1.aspx",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputData_sub1.aspx",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputData_sub1.aspx",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputData_sub1.aspx",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputData_sub1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T08:43:15.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputData_info.aspx",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputData_info.aspx",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputData_info.aspx",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputData_info.aspx",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\InputData_info.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T08:43:06.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Login.aspx",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Login.aspx",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Login.aspx",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T08:05:14.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report_income_detail.aspx.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_detail.aspx.cs",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_detail.aspx.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_detail.aspx.cs",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_detail.aspx.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwF0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:17:55.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report_income_emp.aspx.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_emp.aspx.cs",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_emp.aspx.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_emp.aspx.cs",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_emp.aspx.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAMBiwJ4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:17:37.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report_income_emp.aspx",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_emp.aspx",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_emp.aspx",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_emp.aspx",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_emp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-17T08:16:40.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report_income_detail.aspx",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_detail.aspx",
+              "RelativeDocumentMoniker": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_detail.aspx",
+              "ToolTip": "D:\\\u684C\u9762\\\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_detail.aspx",
+              "RelativeToolTip": "ESM\u4F01\u4E1A\u85AA\u916C\u7BA1\u7406\u7CFB\u7EDF\\Report_income_detail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-17T08:16:32.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

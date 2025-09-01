@@ -1,0 +1,82 @@
+#login_box
+{
+	filter:alpha(opacity=80);    /*  for IE */
+
+   -moz-opacity:0.80;    /*  for FF */
+	opacity:0.80;
+	padding: 30px 0 20px 8px;
+	width: 390px;
+	margin: 0 60px;
+	float: left;
+	display: inline; /* for ie bug */
+	background-color: #FFF;
+	background-image: url(../image/login/login_bar.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#login_box  form
+{
+	margin: 20px 40px;
+}
+#login_box  form img
+{
+	margin-top: 15px;
+	margin-left: 53px !important;
+	margin-left: 56px;
+	cursor: pointer;
+}
+#login_box label
+{
+}
+#user_name, #password
+{
+	width: 207px;
+	margin:10px 0 0 0;
+	padding:0;
+}
+#login_box ul
+{
+	margin:0 0 0 110px;
+	padding: 0;
+	line-height: 2;
+}
+#login_box ul li
+{
+	list-style: url(../image/login/arrow.gif);
+}
+#cookiable
+{
+	margin-left: 53px;
+}
+#related_info
+{
+  float: right;
+  width: 202px;
+  background: url(../image/login/related_info_bg.png) repeat-y;
+  padding: 10px  15px 10px 25px;	
+  line-height: 1.5;
+  margin-right: 20px;
+  height: 335px;
+  display: inline;
+}
+* html #related_info {
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src="../image/login/bgcanvas.png");
+  background:none;
+}
+#related_info p
+{
+	margin: 5px 0;
+}
+#related_info hr
+{
+	height: 1px;
+	color: #FFF;
+	border-color: #FFF;
+}
+#related_info a
+{
+	position: relative;
+}
+.login_box_input {
+	width: 240px;
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Login.aspx" title="薪酬管理系统"  description="">
+	<siteMapNode url="Post_query1.aspx" title="岗位信息查询"  description="" />
+    <siteMapNode url="Post_weihu.aspx" title="岗位列表维护"  description="" />
+    <siteMapNode url="Employee_query.aspx" title="员工列表维护"  description="" />
+	  <siteMapNode url="User_list.aspx" title="新建员工用户"  description="" />
+	  <siteMapNode url="User_password.aspx" title="修改密码"  description="" />
+	  <siteMapNode url="User_role_list.aspx" title="用户角色维护"  description="" />
+	  <siteMapNode url="XinChouJieGou.aspx" title="员工薪酬结构维护"  description="" />
+	  <siteMapNode url="XinChouTemplateList.aspx" title="配置薪酬模版"  description="" />
+	  <siteMapNode url="GeRenJieGouChaXun.aspx" title="本人薪酬结构浏览"  description="" />
+	  <siteMapNode url="Self_View.aspx" title="本人工资单浏览"  description="" />
+	  <siteMapNode url="InputPay.aspx" title="输入薪酬数据"  description="" />
+	  <siteMapNode url="Report_income_outline.aspx" title="个人年度收入细目"  description="" />
+	  <siteMapNode url="Report_income_emp.aspx" title="员工年度收入细目"  description="" />
+  </siteMapNode>
+</siteMap>
